@@ -1,0 +1,29 @@
+{
+  "name": "ajs_symbols-generators",
+  "version": "1.0.0",
+  "description": "Symbols_Generators",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "lint": "eslint",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CoolPaK/ajs_symbols-generators.git"
+  },
+  "author": "coolpak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoolPaK/ajs_symbols-generators/issues"
+  },
+  "homepage": "https://github.com/CoolPaK/ajs_symbols-generators#readme",
+  "devDependencies": {
+    "@babel/core": "^7.25.8",
+    "@babel/preset-env": "^7.25.8",
+    "babel-loader": "^9.2.1",
+    "eslint": "^7.32.0",
+    "eslint-loader": "^4.0.2",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
