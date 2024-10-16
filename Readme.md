@@ -1,6 +1,6 @@
 ### AJS_Symbols-Generators
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/pga33f1qj722uuyd?svg=true)](https://ci.appveyor.com/project/CoolPaK/ajs-symbols-generators)
 ---
 # Домашнее задание к лекции «Символы, итераторы, генераторы»
 
